@@ -1,2 +1,0 @@
-# Configs
-My Configs.
